@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Survey-validation</title>
+</head>
+<body>
+<form action="start" class="row g-3" method="post">
+    <div class="input-group">
+        <span class="input-group-text">First Name</span><br>
+        <input type="text" aria-label="First name" class="form-control" name="firstName"><br>
+        <span class="input-group-text">Last Name</span><br>
+        <input type="text" aria-label="Last name" class="form-control" name="name">
+    </div><br>
+        <div class="col-md-6">
+            <label for="inputEmail4" class="form-label">Email</label><br>
+            <input type="email" class="form-control" id="inputEmail4" name="email">
+        </div>
+        <div class="col-md-6">
+            <label for="inputPassword4" class="form-label">Password</label><br>
+            <input type="password" class="form-control" id="inputPassword4" name="password">
+        </div>
+        <div class="col-12">
+            <label for="inputAddress" class="form-label">Address</label><br>
+            <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St" name="address">
+        </div>
+        <div class="col-12">
+            <label for="inputAddress2" class="form-label">Address 2</label><br>
+            <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor" name="address2">
+        </div>
+        <div class="col-md-6">
+            <label for="inputCity" class="form-label">City</label><br>
+            <input type="text" class="form-control" id="inputCity" name="city">
+        </div>
+        <div class="col-md-4">
+            <label for="inputState" class="form-label">State</label><br>
+            <select id="inputState" class="form-select" name="state">
+                <option selected>Karnataka</option>
+                <option>AndraPradesh</option>
+            </select>
+        </div>
+        <div class="col-md-2">
+            <label for="inputZip" class="form-label">Zip</label><br>
+            <input type="text" class="form-control" id="inputZip" name="zip">
+        </div><br>
+    <div class="form-check">
+        <label>Land Marking</label><br>
+        <input class="form-check-input" type="radio" name="radioDefault" id="radioDefault1">
+        <label class="form-check-label" for="radioDefault1">
+            Area
+        </label>
+    </div>
+    <div class="form-check">
+        <input class="form-check-input" type="radio" name="radioDefault" id="radioDefault2" checked>
+        <label class="form-check-label" for="radioDefault2">
+            Land Mark
+        </label>
+    </div><br>
+        <div class="col-12">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="gridCheck" name="check">
+                <label class="form-check-label" for="gridCheck">
+                    Check me out
+                </label>
+            </div>
+        </div><br>
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Sign in</button>
+        </div>
+</form>
+</body>
+</html>
