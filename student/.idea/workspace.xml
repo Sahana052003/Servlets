@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfc3eed2-cbae-4655-a30a-96bbd9885d62" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/Catalina/localhost/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/student/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xworkz/student/configuration/WebConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xworkz/student/configuration/WebInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sahana52003"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sahana52003/Servlets.git",
+    "accountId": "d1c79502-9486-4b81-bdb2-99bda2d902cd"
+  }
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="380IUNIpA936xvcqRx1QR0gxGe9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.student [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Smart Tomcat.Unnamed.executor": "Run",
+    "git-widget-placeholder": "HTTPServet",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\admin\.SmartTomcat\student\student" />
+      <option name="contextPath" value="/student" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.38" />
+          <option name="path" value="D:/apache-tomcat-9.0.38" />
+          <option name="version" value="9.0.38.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="student" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc3eed2-cbae-4655-a30a-96bbd9885d62" name="Changes" comment="" />
+      <created>1767930077041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767930077041</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767931817083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767931817083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+</project>
