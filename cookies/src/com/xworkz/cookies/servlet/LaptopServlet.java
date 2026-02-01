@@ -5,6 +5,8 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 import java.io.IOException;
 
+
+
 @WebServlet("/hello")
 public class LaptopServlet extends HttpServlet {
     public LaptopServlet(){
