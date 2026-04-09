@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/survey/Instagram/Instagram.iml" filepath="$PROJECT_DIR$/survey/Instagram/Instagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/Management/Management.iml" filepath="$PROJECT_DIR$/formvalidation/Management/Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Servlets.iml" filepath="$PROJECT_DIR$/.idea/Servlets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/appliction/appliction.iml" filepath="$PROJECT_DIR$/formvalidation/appliction/appliction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bakery/bakery.iml" filepath="$PROJECT_DIR$/bakery/bakery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booking/booking.iml" filepath="$PROJECT_DIR$/booking/booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookies/cookies.iml" filepath="$PROJECT_DIR$/cookies/cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookiesandsessions/cookiesandsessions.iml" filepath="$PROJECT_DIR$/cookiesandsessions/cookiesandsessions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsuatin/encapsuatin.iml" filepath="$PROJECT_DIR$/encapsuatin/encapsuatin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/events/events.iml" filepath="$PROJECT_DIR$/events/events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebooklogin/facebooklogin.iml" filepath="$PROJECT_DIR$/facebooklogin/facebooklogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flipkart/flipkart.iml" filepath="$PROJECT_DIR$/flipkart/flipkart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formpage/formpage.iml" filepath="$PROJECT_DIR$/formpage/formpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forms/forms.iml" filepath="$PROJECT_DIR$/forms/forms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/formvalidation.iml" filepath="$PROJECT_DIR$/formvalidation/formvalidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie/game/game.iml" filepath="$PROJECT_DIR$/movie/game/game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie/hotel/hotel.iml" filepath="$PROJECT_DIR$/movie/hotel/hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/information/information.iml" filepath="$PROJECT_DIR$/formvalidation/information/information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/login/login2.iml" filepath="$PROJECT_DIR$/formvalidation/login/login2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrimonial/matrimonial.iml" filepath="$PROJECT_DIR$/matrimonial/matrimonial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/medical/medical.iml" filepath="$PROJECT_DIR$/formvalidation/medical/medical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie/movie.iml" filepath="$PROJECT_DIR$/movie/movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/orders/orders.iml" filepath="$PROJECT_DIR$/formvalidation/orders/orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie/passport/passport.iml" filepath="$PROJECT_DIR$/movie/passport/passport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/payments/payments.iml" filepath="$PROJECT_DIR$/formvalidation/payments/payments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registrations/registrations.iml" filepath="$PROJECT_DIR$/registrations/registrations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servletapp/servletapp.iml" filepath="$PROJECT_DIR$/servletapp/servletapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlets/servlets.iml" filepath="$PROJECT_DIR$/servlets/servlets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify.iml" filepath="$PROJECT_DIR$/spotify/spotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/support/support.iml" filepath="$PROJECT_DIR$/formvalidation/support/support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/survey/survey.iml" filepath="$PROJECT_DIR$/survey/survey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie/survey/survey2.iml" filepath="$PROJECT_DIR$/movie/survey/survey2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter/twitter.iml" filepath="$PROJECT_DIR$/twitter/twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userinform/userinform.iml" filepath="$PROJECT_DIR$/userinform/userinform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehicleRegisteration/vehicleRegisteration.iml" filepath="$PROJECT_DIR$/vehicleRegisteration/vehicleRegisteration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/webapp/webapp.iml" filepath="$PROJECT_DIR$/api/webapp/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formvalidation/website/website.iml" filepath="$PROJECT_DIR$/formvalidation/website/website.iml" />
+    </modules>
+  </component>
+</project>

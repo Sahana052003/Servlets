@@ -5,27 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="229cce13-61ba-42db-a50c-c74d050c77cd" name="Changes" comment="PostMapping">
-      <change afterPath="$PROJECT_DIR$/../bakery/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/.idea/libraries/javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/bakery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/src/com/xworkz/bakery/servlet/BakeryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/src/com/xworkz/bakery/servlet/RespServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/static/bakeryreg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bakery/static/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vehicleRegisteration/src/com/xworkz/vehicleRegisteration/dao/ReadVehicleRegisterationDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cookies/src/com/xworkz/cookies/servlet/LaptopServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cookies/src/com/xworkz/cookies/servlet/LaptopServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vehicleRegisteration/src/com/xworkz/vehicleRegisteration/service/VehicleRegisterationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vehicleRegisteration/src/com/xworkz/vehicleRegisteration/service/VehicleRegisterationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vehicleRegisteration/src/com/xworkz/vehicleRegisteration/servlet/VehicleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vehicleRegisteration/src/com/xworkz/vehicleRegisteration/servlet/VehicleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/youtube/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/youtube/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/youtube/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/youtube/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/youtube/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/java/com/xworkz/homepage/configuration/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/java/com/xworkz/homepage/configuration/WebConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/java/com/xworkz/homepage/configuration/WebInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/java/com/xworkz/homepage/configuration/WebInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/images/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/images/images (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/signin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/signin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/signup.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/homepage/src/main/webapp/signup.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Smart Tomcat.Unnamed.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "#7 on main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
