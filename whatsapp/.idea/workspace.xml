@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="281aa2f4-db5a-4320-80ee-3a58ace50323" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../student/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/Catalina/localhost/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/catalina.policy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/.smarttomcat/student/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/src/main/java/com/xworkz/student/configuration/WebConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/src/main/java/com/xworkz/student/configuration/WebInitialization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student/src/main/webapp/index.jsp" beforeDir="false" />
-    </list>
+    <list default="true" id="281aa2f4-db5a-4320-80ee-3a58ace50323" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sahana52003"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sahana52003&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sahana52003/Servlets.git",
-    "accountId": "d1c79502-9486-4b81-bdb2-99bda2d902cd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sahana52003/Servlets.git&quot;,
+    &quot;accountId&quot;: &quot;d1c79502-9486-4b81-bdb2-99bda2d902cd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="380Nl2eTG7P8qy9rqXBOMFefTXe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,22 +38,13 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "HTTPServet",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Desktop/Servlets/whatsapp",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="whatsapp" />
       <method v="2">
