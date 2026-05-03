@@ -7,7 +7,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
 
-@WebServlet(urlPatterns = "/",loadOnStartup = 1)
+@WebServlet(urlPatterns = "/start",loadOnStartup = 1)
 public class Pizaa extends GenericServlet {
     public Pizaa(){
         System.out.println("Pizaa method is Called");
@@ -15,7 +15,7 @@ public class Pizaa extends GenericServlet {
 
     @Override
     public void init() throws ServletException {
-        super.init();
+        System.out.println("Init method is called");
     }
 
 
@@ -25,4 +25,8 @@ public class Pizaa extends GenericServlet {
 
     }
 
+    @Override
+    public void destroy() {
+        System.out.println("Destroy the servlet object");
+    }
 }
