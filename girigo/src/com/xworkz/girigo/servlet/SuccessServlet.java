@@ -1,4 +1,4 @@
-package com.xworkz.flipkart.servlet;
+package com.xworkz.girigo.servlet;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -8,18 +8,16 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet("/orderServlet")
-public class OrderServlet extends HttpServlet {
-    public OrderServlet(){
 
-        System.out.println("OrderServlet is Created");
+@WebServlet(urlPatterns = "/stop",loadOnStartup = 3)
+public class SuccessServlet extends HttpServlet {
+    public SuccessServlet(){
+        System.out.println("Success object is called");
     }
-
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
-        resp.sendRedirect("delivered");
-
+        RequestDispatcher requestDispatcher = req.getRequestDispatcher("wish.jsp");
+        requestDispatcher.forward(req,resp);
     }
 }
