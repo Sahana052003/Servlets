@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(urlPatterns = "/login",loadOnStartup = 2)
+@WebServlet(urlPatterns = "/login")
 public class LoginServlet extends HttpServlet {
     public LoginServlet(){
         System.out.println("LoginServlet is Called");

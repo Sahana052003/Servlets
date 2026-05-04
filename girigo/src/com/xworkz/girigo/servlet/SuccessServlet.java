@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 
-@WebServlet(urlPatterns = "/stop",loadOnStartup = 3)
+@WebServlet(urlPatterns = "/stop")
 public class SuccessServlet extends HttpServlet {
     public SuccessServlet(){
         System.out.println("Success object is called");

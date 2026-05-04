@@ -7,11 +7,12 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(urlPatterns = "/start",loadOnStartup = 1)
+@WebServlet(urlPatterns = "/start")
 public class GirigoServlet extends HttpServlet {
     public GirigoServlet(){
         System.out.println("Girigo Object is Called");
     }
+
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

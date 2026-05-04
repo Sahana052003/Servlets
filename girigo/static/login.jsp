@@ -11,6 +11,7 @@
         <input type="email" placeholder="Enter your name" name="email">
         <input type="password" placeholder="Enter your password" name="password">
         <button type="submit">Submit</button>
+
     </form>
 </body>
 </html>
