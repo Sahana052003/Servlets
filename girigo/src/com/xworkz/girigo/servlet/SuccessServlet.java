@@ -15,6 +15,7 @@ public class SuccessServlet extends HttpServlet {
         System.out.println("Success object is called");
     }
 
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         RequestDispatcher requestDispatcher = req.getRequestDispatcher("wish.jsp");

@@ -13,6 +13,7 @@ public class LoginServlet extends HttpServlet {
         System.out.println("LoginServlet is Called");
     }
 
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.sendRedirect("stop");
