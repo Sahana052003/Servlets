@@ -16,9 +16,18 @@ public class SuccessServlet extends HttpServlet {
     }
 
 
+//    @Override
+//    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+//        RequestDispatcher requestDispatcher = req.getRequestDispatcher("wish.jsp");
+//        requestDispatcher.forward(req,resp);
+//    }
+
+
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        RequestDispatcher requestDispatcher = req.getRequestDispatcher("wish.jsp");
-        requestDispatcher.forward(req,resp);
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
+        RequestDispatcher dispatcher =
+                req.getRequestDispatcher("wish.jsp");
+        dispatcher.forward(req, resp);
     }
 }

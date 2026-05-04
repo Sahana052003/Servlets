@@ -1,5 +1,6 @@
 package com.xworkz.girigo.servlet;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -14,8 +15,23 @@ public class LoginServlet extends HttpServlet {
     }
 
 
+//    @Override
+//    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+//        resp.sendRedirect("stop");
+//    }
+
+
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.sendRedirect("stop");
-    }
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        String name = req.getParameter("name");
+        String email = req.getParameter("email");
+        String password = req.getParameter("password");
+
+        // store in request
+        req.setAttribute("name", name);
+
+        // forward to next servlet
+        RequestDispatcher dispatcher =
+                req.getRequestDispatcher("stop");
+        dispatcher.forward(req, resp);    }
 }

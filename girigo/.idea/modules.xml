@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/girigo.iml" filepath="$PROJECT_DIR$/girigo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedIn/linkedIn.iml" filepath="$PROJECT_DIR$/linkedIn/linkedIn.iml" />
     </modules>
   </component>
 </project>

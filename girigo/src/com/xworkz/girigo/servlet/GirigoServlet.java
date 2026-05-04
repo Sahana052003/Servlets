@@ -1,5 +1,6 @@
 package com.xworkz.girigo.servlet;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -15,13 +16,20 @@ public class GirigoServlet extends HttpServlet {
 
 
 
+//    @Override
+//    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+//        String name = req.getParameter("name");
+//        String email = req.getParameter("email");
+//        String password = req.getParameter("password");
+//
+//        req.setAttribute("Hello",name);
+//            resp.sendRedirect("login");
+//    }
+
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        String name = req.getParameter("name");
-        String email = req.getParameter("email");
-        String password = req.getParameter("password");
-
-        req.setAttribute("Hello",name);
-            resp.sendRedirect("login");
-    }
-}
+        RequestDispatcher dispatcher =
+                req.getRequestDispatcher("login.jsp");
+        dispatcher.forward(req, resp);
+    }    }
