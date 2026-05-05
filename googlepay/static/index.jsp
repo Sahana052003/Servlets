@@ -11,5 +11,6 @@
 <input type="password" name="password" placeholder="Enter password"><br><br>
 <input type="tel" name="mobileNumber" placeholder="Enter mobileNUmber"><br><br>
 <button>Submit</button>
+</form>
 </body>
 </html>
